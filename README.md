@@ -1,6 +1,6 @@
 # Will you be my valentine?
 
-Github Pages : https://github.com/markdrobin/online-valentines-letter
+Github Pages : https://markdrobin.github.io/online-valentines-letter/
 
 
 # Description
