@@ -90,7 +90,7 @@ export default function Page() {
                 <div className="space-y-4 flex flex-col items-center relative flex-1"
                      style={{opacity: 1, willChange: 'auto', transform: 'none'}}>
                   <button
-                    className="bg-[#E74C3C] text-white px-4 md:px-8 py-2 md:py-3 rounded-lg md:text-xl font-bold hover:bg-[#D64434] transition-colors"
+                    className="bg-[#E74C3C] text-white px-4 md:px-8 py-2 md:py-3 rounded-lg font-bold hover:bg-[#D64434] transition-colors"
                     onClick={() => setYesPressed(true)}
                     style={{fontSize: yesButtonSize}}
                   >
